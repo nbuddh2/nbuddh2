@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sairam
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently a Grad Student at UIC
+- 🌱 I’m currently a Graduate from UIC
 - 💞️ I’m looking to collaborate on ML,AL and DS Projects
 - 📫 Reach me out on No.: +1(312)-843-8291
 
